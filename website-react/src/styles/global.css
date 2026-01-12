@@ -1,0 +1,11 @@
+/* Import Bootstrap */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+/* Color palette */
+:root {
+  --dark-slate-blue: #58419Bff;
+  --lavender-web: #dae0f2ff;
+  --sapphire: #0452BBff;
+  --medium-turquoise: #54E3E7ff;
+  --castleton-green: #0F6258ff;
+}
